@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+
+}
+header{
+    background-image: linear-gradient(to right, green,blue,red);
+    color: white;
+    padding: 20px 20px;
+    /* border-radius: 15px; */
+}
+main{
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    /* padding: 20px 20px; */
+}
+.generator{
+    background-color: #ffffff;
+    padding: 20px 20px;
+    /* border-radius: 15px; */
+
+}
+#grad-preview{
+    width: 500px;
+    height: 350px;
+    border-radius: 15px;
+    text-align: center;
+    /* justify-content: center;
+    align-items: center;*/
+} 
